@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Aaron's Javascript Programs</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <img src="my%20banner1.jpg">
+        <table id ="nav-table">
+            <tr>
+                <td id ="#nav-td"><a href="index.html"><img src="home1.png"></a>
+                <td id ="#nav-td"><a href="about.html"><img src="aboutme2.png"></a>
+                <td id ="#nav-td"><a href="Javascript.html"><img src="Javascript2.jpg"></a>
+            <tr>
+        </table>
+        <h1>Welcome To Aaron's Programming Porfolio </h1>
+This is my programming porfolio for my CSC106 course at the University of Rhode Island. Enjoy using the apps I wrote.
+
 <h2><a href="https://www.khanacademy.org/computer-programming/csc-final-project/5156277511569408">CSC Final Project </a></h2><script src="https://www.khanacademy.org/computer-programming/csc-final-project/5156277511569408/embed.js?editor=no&buttons=no&author=no&embed=yes"></script><p>
