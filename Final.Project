@@ -14,8 +14,12 @@
                 <td id ="#nav-td"><a href="Javascript.html"><img src="Javascript2.jpg"></a>
             <tr>
         </table>
-        <h1>Welcome To Aaron's Programming Porfolio </h1>
-This is my programming porfolio for my CSC106 course at the University of Rhode Island. Enjoy using the apps I wrote.
+        <h1> Flutter Ball </h1>
+Flutter Ball is a fun interactive game that has three different levels. The objective of the game is to navigate through the holes with the ball using the 
+up and down arrows. <br>
+Everytime you pass a hole you will gain a point and everytime you miss you will lose a point. You must achieve the required amount of points to reach the next level <br>
+and keep in mind that the levels increases in difficulty as the holes get smaller. After completing the three levels, you will reacive a trophy screen <br>
+congratulating you on winning the game. 
 
 <h2><a href="https://www.khanacademy.org/computer-programming/csc-final-project/5156277511569408">CSC Final Project </a></h2><script src="https://www.khanacademy.org/computer-programming/csc-final-project/5156277511569408/embed.js?editor=no&buttons=no&author=no&embed=yes"></script><p>
          </body>
